@@ -1,0 +1,20 @@
+
+{
+  "name": "workflow-utility-suite",
+  "version": "1.0.0",
+  "description": "A modular JavaScript toolkit for document dispatch, spreadsheet indexing, and factorial analytics.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node examples/demo.js"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "stack",
+    "spreadsheet",
+    "algorithms",
+    "workflow-automation"
+  ],
+  "author": "Mir Hamza Rahman",
+  "license": "MIT"
+}
